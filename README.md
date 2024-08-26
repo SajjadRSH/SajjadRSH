@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SajjadRSH
 - 👀 I’m interested in Robotics and programming.
-- 🌱 I’m currently learning mathematics.
+- 🌱 I’m currently learning electrical engineering.
 
 <!---
 SajjadRSH/SajjadRSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
